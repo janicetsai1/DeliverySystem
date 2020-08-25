@@ -13,3 +13,6 @@ This program takes the files with specified delivery points and outputs a turn-b
 #### Deliveries Data File (delieveries.txt)
 * Starting point geocoordinates
 * Following lines of delivery points in geocoordinates, followed by the item delievered
+
+#### Note
+In main.cpp (line 55), you will have to change the path to mapdata.txt, based on where your file lives. Using your command line, you can get the path by going into the folder that contains mapdata.txt and using the **pwd** command.
